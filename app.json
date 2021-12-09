@@ -1,0 +1,35 @@
+{
+	"expo": {
+		"name": "ericsson-heatmap-app",
+		"slug": "ericsson-heatmap-app",
+		"description": "Logging a heatmap on a map using GPS signals.",
+		"version": "0.0.1",
+		"orientation": "portrait",
+		"icon": "./assets/icon.png",
+		"splash": {
+			"image": "./assets/e2.png",
+			"resizeMode": "contain",
+			"backgroundColor": "#343C50"
+		},
+		"updates": {
+			"fallbackToCacheTimeout": 0
+		},
+		"assetBundlePatterns": ["**/*"],
+		"ios": {
+			"supportsTablet": true,
+			"bundleIdentifier": "com.iths.ericsson-heatmap-app",
+			"buildNumber": "0.0.1"
+		},
+		"android": {
+			"adaptiveIcon": {
+				"foregroundImage": "./assets/icon.png",
+				"backgroundColor": "#343C50"
+			},
+			"package": "com.iths.ericsson_heatmap_app",
+			"versionCode": 1
+		},
+		"web": {
+			"favicon": "./assets/icon.png"
+		}
+	}
+}
