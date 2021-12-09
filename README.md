@@ -12,12 +12,4 @@
 
 - Visualisera på kartan dessa färger utifrån värderna som har sparats (GPS & signalstrength)
 
-- Appen ska göras i React Native
-  EXPO rekommenderas men går även göras som “bare workflow”
-
-- Appen ska vara användarvänlig och kompatibel med relevanta appmarknadskrav
-- Appen ska alltså vara färdig att publiseras på Play store eller Apple store
-
-### TEST COMMIT
-
-## Obs. Appen behöver endast uppfylla kraven för bli godkänd men behöver ej ha blivit publiserad vid kursens slut
+- Detta är ett grupp projekt gjort av Rasmus, Jimmy, Ken & Oshedhe
